@@ -1,0 +1,5 @@
+retrieval_method,prediction_strategy,model_label,n_total,n_correct,n_wrong,accuracy,f1_macro,correct_query_ids,wrong_query_ids
+tfidf,majority,TFIDF + majority,6,5,1,0.8333,0.125,"['query_case_028', 'query_case_016', 'query_case_018', 'query_case_009', 'query_case_010']",['query_case_024']
+tfidf,weighted,TFIDF + weighted,6,5,1,0.8333,0.125,"['query_case_028', 'query_case_016', 'query_case_018', 'query_case_009', 'query_case_010']",['query_case_024']
+embedding,majority,EMBEDDING + majority,6,4,2,0.6667,0.1667,"['query_case_016', 'query_case_018', 'query_case_009', 'query_case_010']","['query_case_028', 'query_case_024']"
+embedding,weighted,EMBEDDING + weighted,6,4,2,0.6667,0.1667,"['query_case_016', 'query_case_018', 'query_case_009', 'query_case_010']","['query_case_028', 'query_case_024']"

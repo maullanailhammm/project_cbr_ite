@@ -1,0 +1,121 @@
+query_id,test_case_id,ground_truth_pasal,retrieval_method,prediction_strategy,predicted_pasal,predicted_solution,top_5_case_ids,top_5_scores,correct
+query_case_028,case_028,Pasal 28,tfidf,majority,Pasal 45; Pasal 28 ayat (1); Pasal 3; Pasal 5; Pasal 10; Pasal 378; Pasal 39; Pasal 40; Pasal 2 ayat (1); Pasal 28,"[PASAL TERBUKTI] Pasal 45; Pasal 28 ayat (1); Pasal 3; Pasal 5; Pasal 10; Pasal 378; Pasal 39; Pasal 40; Pasal 2 ayat (1); Pasal 28
+[VONIS PENJARA]  -
+[AMAR/ARGUMEN]   Perkara
+Pidana pada Peradilan Tingkat Pertama, dengan acara pemeriksaan Biasa telah
+menjatuhkan Putusan sebagai berikut dalam perkar","['case_029', 'case_030', 'case_019', 'case_001', 'case_007']","{'case_029': 0.5136, 'case_030': 0.4249, 'case_019': 0.4031, 'case_001': 0.3358, 'case_007': 0.3316}",False
+query_case_028,case_028,Pasal 28,tfidf,weighted,Pasal 45; Pasal 28 ayat (1); Pasal 3; Pasal 5; Pasal 10; Pasal 378; Pasal 39; Pasal 40; Pasal 2 ayat (1); Pasal 28,"[PASAL TERBUKTI] Pasal 45; Pasal 28 ayat (1); Pasal 3; Pasal 5; Pasal 10; Pasal 378; Pasal 39; Pasal 40; Pasal 2 ayat (1); Pasal 28
+[VONIS PENJARA]  -
+[AMAR/ARGUMEN]   Perkara
+Pidana pada Peradilan Tingkat Pertama, dengan acara pemeriksaan Biasa telah
+menjatuhkan Putusan sebagai berikut dalam perkar","['case_029', 'case_030', 'case_019', 'case_001', 'case_007']","{'case_029': 0.5136, 'case_030': 0.4249, 'case_019': 0.4031, 'case_001': 0.3358, 'case_007': 0.3316}",False
+query_case_028,case_028,Pasal 28,embedding,majority,Pasal 32 ayat (2) jo Pasal 36 jo Pasal 51 ayat (2); Pasal 32 ayat (1) jo Pasal 36 jo Pasal 51 ayat (2); Pasal 30 ayat (1) jo Pasal 36 jo Pasal 51 ayat (2); Pasal 44; Pasal 48; Pasal 22 ayat (4),"[PASAL TERBUKTI] Pasal 32 ayat (2) jo Pasal 36 jo Pasal 51 ayat (2); Pasal 32 ayat (1) jo Pasal 36 jo Pasal 51 ayat (2); Pasal 30 ayat (1) jo Pasal 36 jo Pasal 51 ayat (2); Pasal 44; Pasal 48; Pasal 22 ayat (4)
+[VONIS PENJARA]  -
+[AMAR/ARGUMEN]   perkara pidana dengan
+acara pemeriksaan biasa dalam t","['case_023', 'case_007', 'case_015', 'case_026', 'case_014']","{'case_023': 0.9015, 'case_007': 0.8997, 'case_015': 0.8909, 'case_026': 0.7193, 'case_014': 0.7043}",False
+query_case_028,case_028,Pasal 28,embedding,weighted,Pasal 32 ayat (2) jo Pasal 36 jo Pasal 51 ayat (2); Pasal 32 ayat (1) jo Pasal 36 jo Pasal 51 ayat (2); Pasal 30 ayat (1) jo Pasal 36 jo Pasal 51 ayat (2); Pasal 44; Pasal 48; Pasal 22 ayat (4),"[PASAL TERBUKTI] Pasal 32 ayat (2) jo Pasal 36 jo Pasal 51 ayat (2); Pasal 32 ayat (1) jo Pasal 36 jo Pasal 51 ayat (2); Pasal 30 ayat (1) jo Pasal 36 jo Pasal 51 ayat (2); Pasal 44; Pasal 48; Pasal 22 ayat (4)
+[VONIS PENJARA]  -
+[AMAR/ARGUMEN]   perkara pidana dengan
+acara pemeriksaan biasa dalam t","['case_023', 'case_007', 'case_015', 'case_026', 'case_014']","{'case_023': 0.9015, 'case_007': 0.8997, 'case_015': 0.8909, 'case_026': 0.7193, 'case_014': 0.7043}",False
+query_case_016,case_016,Pasal 2 ayat (1),tfidf,majority,Pasal 480; Pasal 5; Pasal 32 jo Pasal 36 jo Pasal 51 ayat (2); Pasal 56; Pasal 35 jo Pasal 51 ayat (1); Pasal 32 ayat (1) Jo. Pasal 48 ayat (1); Pasal 82; Pasal 2 ayat (1); Pasal 3; Pasal 51 ayat (2) jo Pasal 36,"[PASAL TERBUKTI] Pasal 480; Pasal 5; Pasal 32 jo Pasal 36 jo Pasal 51 ayat (2); Pasal 56; Pasal 35 jo Pasal 51 ayat (1); Pasal 32 ayat (1) Jo. Pasal 48 ayat (1); Pasal 82; Pasal 2 ayat (1); Pasal 3; Pasal 51 ayat (2) jo Pasal 36
+[VONIS PENJARA]  -
+[AMAR/ARGUMEN]   perkara-perkara pidana pada peradil","['case_012', 'case_011', 'case_015', 'case_013', 'case_023']","{'case_012': 0.8378, 'case_011': 0.7753, 'case_015': 0.5077, 'case_013': 0.3522, 'case_023': 0.2812}",False
+query_case_016,case_016,Pasal 2 ayat (1),tfidf,weighted,Pasal 480; Pasal 5; Pasal 32 jo Pasal 36 jo Pasal 51 ayat (2); Pasal 56; Pasal 35 jo Pasal 51 ayat (1); Pasal 32 ayat (1) Jo. Pasal 48 ayat (1); Pasal 82; Pasal 2 ayat (1); Pasal 3; Pasal 51 ayat (2) jo Pasal 36,"[PASAL TERBUKTI] Pasal 480; Pasal 5; Pasal 32 jo Pasal 36 jo Pasal 51 ayat (2); Pasal 56; Pasal 35 jo Pasal 51 ayat (1); Pasal 32 ayat (1) Jo. Pasal 48 ayat (1); Pasal 82; Pasal 2 ayat (1); Pasal 3; Pasal 51 ayat (2) jo Pasal 36
+[VONIS PENJARA]  -
+[AMAR/ARGUMEN]   perkara-perkara pidana pada peradil","['case_012', 'case_011', 'case_015', 'case_013', 'case_023']","{'case_012': 0.8378, 'case_011': 0.7753, 'case_015': 0.5077, 'case_013': 0.3522, 'case_023': 0.2812}",False
+query_case_016,case_016,Pasal 2 ayat (1),embedding,majority,Pasal 2 ayat (1); Pasal 32 ayat (2) jo Pasal 36 jo Pasal 51 ayat (2); Pasal 55 ayat (1); Pasal 3; Pasal 32 jo Pasal 36 jo Pasal 51 ayat (2); Pasal 35 jo Pasal 51 ayat (1); Pasal 32 ayat (1) Jo. Pasal 48 ayat (1); Pasal 85; Pasal 82; Pasal 4,"[PASAL TERBUKTI] Pasal 2 ayat (1); Pasal 32 ayat (2) jo Pasal 36 jo Pasal 51 ayat (2); Pasal 55 ayat (1); Pasal 3; Pasal 32 jo Pasal 36 jo Pasal 51 ayat (2); Pasal 35 jo Pasal 51 ayat (1); Pasal 32 ayat (1) Jo. Pasal 48 ayat (1); Pasal 85; Pasal 82; Pasal 4
+[VONIS PENJARA]  -
+[AMAR/ARGUMEN]   perkar","['case_011', 'case_012', 'case_008', 'case_026', 'case_005']","{'case_011': 0.9759, 'case_012': 0.9743, 'case_008': 0.9159, 'case_026': 0.9119, 'case_005': 0.8924}",False
+query_case_016,case_016,Pasal 2 ayat (1),embedding,weighted,Pasal 2 ayat (1); Pasal 32 ayat (2) jo Pasal 36 jo Pasal 51 ayat (2); Pasal 55 ayat (1); Pasal 3; Pasal 32 jo Pasal 36 jo Pasal 51 ayat (2); Pasal 35 jo Pasal 51 ayat (1); Pasal 32 ayat (1) Jo. Pasal 48 ayat (1); Pasal 85; Pasal 82; Pasal 4,"[PASAL TERBUKTI] Pasal 2 ayat (1); Pasal 32 ayat (2) jo Pasal 36 jo Pasal 51 ayat (2); Pasal 55 ayat (1); Pasal 3; Pasal 32 jo Pasal 36 jo Pasal 51 ayat (2); Pasal 35 jo Pasal 51 ayat (1); Pasal 32 ayat (1) Jo. Pasal 48 ayat (1); Pasal 85; Pasal 82; Pasal 4
+[VONIS PENJARA]  -
+[AMAR/ARGUMEN]   perkar","['case_011', 'case_012', 'case_008', 'case_026', 'case_005']","{'case_011': 0.9759, 'case_012': 0.9743, 'case_008': 0.9159, 'case_026': 0.9119, 'case_005': 0.8924}",False
+query_case_024,case_024,Pasal 27 ayat (1) Jo Pasal 45 ayat (1),tfidf,majority,Pasal 27; Pasal 1; Pasal 4 Jo Pasal 29,"[PASAL TERBUKTI] Pasal 27; Pasal 1; Pasal 4 Jo Pasal 29
+[VONIS PENJARA]  -
+[AMAR/ARGUMEN]   perkara pidana
+dengan acara pemeriksaan biasa dalam tingkat pertama menjatuhkan
+putusan sebagai berikut dalam perkara Terdakwa :
+
+Nama lengkap
+: XXXXXXX;
+
+Tempat lahir
+: Lamongan;
+
+Umur/Tanggal lahir
+: 20 tah","['case_022', 'case_023', 'case_015', 'case_013', 'case_012']","{'case_022': 0.5651, 'case_023': 0.4998, 'case_015': 0.4371, 'case_013': 0.4353, 'case_012': 0.3955}",False
+query_case_024,case_024,Pasal 27 ayat (1) Jo Pasal 45 ayat (1),tfidf,weighted,Pasal 27; Pasal 1; Pasal 4 Jo Pasal 29,"[PASAL TERBUKTI] Pasal 27; Pasal 1; Pasal 4 Jo Pasal 29
+[VONIS PENJARA]  -
+[AMAR/ARGUMEN]   perkara pidana
+dengan acara pemeriksaan biasa dalam tingkat pertama menjatuhkan
+putusan sebagai berikut dalam perkara Terdakwa :
+
+Nama lengkap
+: XXXXXXX;
+
+Tempat lahir
+: Lamongan;
+
+Umur/Tanggal lahir
+: 20 tah","['case_022', 'case_023', 'case_015', 'case_013', 'case_012']","{'case_022': 0.5651, 'case_023': 0.4998, 'case_015': 0.4371, 'case_013': 0.4353, 'case_012': 0.3955}",False
+query_case_024,case_024,Pasal 27 ayat (1) Jo Pasal 45 ayat (1),embedding,majority,Pasal 45; Pasal 28 ayat (1); Pasal 65 ayat (1); Pasal 65 ayat (1) Jo Pasal 55 ayat (1); Pasal 378; Pasal 55 ayat (1); Pasal 372,"[PASAL TERBUKTI] Pasal 45; Pasal 28 ayat (1); Pasal 65 ayat (1); Pasal 65 ayat (1) Jo Pasal 55 ayat (1); Pasal 378; Pasal 55 ayat (1); Pasal 372
+[VONIS PENJARA]  -
+[AMAR/ARGUMEN]   perkara pidana dengan
+acara pemeriksaan biasa dalam tingkat pertama telah menjatuhkan putusan
+sebagai berikut dalam per","['case_027', 'case_022', 'case_025', 'case_005', 'case_017']","{'case_027': 0.9325, 'case_022': 0.9322, 'case_025': 0.928, 'case_005': 0.9156, 'case_017': 0.9149}",False
+query_case_024,case_024,Pasal 27 ayat (1) Jo Pasal 45 ayat (1),embedding,weighted,Pasal 45; Pasal 28 ayat (1); Pasal 65 ayat (1); Pasal 65 ayat (1) Jo Pasal 55 ayat (1); Pasal 378; Pasal 55 ayat (1); Pasal 372,"[PASAL TERBUKTI] Pasal 45; Pasal 28 ayat (1); Pasal 65 ayat (1); Pasal 65 ayat (1) Jo Pasal 55 ayat (1); Pasal 378; Pasal 55 ayat (1); Pasal 372
+[VONIS PENJARA]  -
+[AMAR/ARGUMEN]   perkara pidana dengan
+acara pemeriksaan biasa dalam tingkat pertama telah menjatuhkan putusan
+sebagai berikut dalam per","['case_027', 'case_022', 'case_025', 'case_005', 'case_017']","{'case_027': 0.9325, 'case_022': 0.9322, 'case_025': 0.928, 'case_005': 0.9156, 'case_017': 0.9149}",False
+query_case_018,case_018,Pasal 28 ayat (1) jo. Pasal 45,tfidf,majority,Pasal 28 ayat (1) jo. Pasal 45; Pasal 55 ayat (1); Pasal 2 ayat (1); Pasal 5 ayat (1); Pasal 378; Pasal 28 ayat (1); Pasal 35; Pasal 1; Pasal 55,"[PASAL TERBUKTI] Pasal 28 ayat (1) jo. Pasal 45; Pasal 55 ayat (1); Pasal 2 ayat (1); Pasal 5 ayat (1); Pasal 378; Pasal 28 ayat (1); Pasal 35; Pasal 1; Pasal 55
+[VONIS PENJARA]  -
+[AMAR/ARGUMEN]   perkara pidana dalam
+acara pemeriksaan biasa menjatuhkan putusan sebagai berikut dalam perkara
+para Te","['case_017', 'case_006', 'case_007', 'case_014', 'case_008']","{'case_017': 0.7654, 'case_006': 0.6328, 'case_007': 0.4837, 'case_014': 0.4784, 'case_008': 0.4566}",False
+query_case_018,case_018,Pasal 28 ayat (1) jo. Pasal 45,tfidf,weighted,Pasal 28 ayat (1) jo. Pasal 45; Pasal 55 ayat (1); Pasal 2 ayat (1); Pasal 5 ayat (1); Pasal 378; Pasal 28 ayat (1); Pasal 35; Pasal 1; Pasal 55,"[PASAL TERBUKTI] Pasal 28 ayat (1) jo. Pasal 45; Pasal 55 ayat (1); Pasal 2 ayat (1); Pasal 5 ayat (1); Pasal 378; Pasal 28 ayat (1); Pasal 35; Pasal 1; Pasal 55
+[VONIS PENJARA]  -
+[AMAR/ARGUMEN]   perkara pidana dalam
+acara pemeriksaan biasa menjatuhkan putusan sebagai berikut dalam perkara
+para Te","['case_017', 'case_006', 'case_007', 'case_014', 'case_008']","{'case_017': 0.7654, 'case_006': 0.6328, 'case_007': 0.4837, 'case_014': 0.4784, 'case_008': 0.4566}",False
+query_case_018,case_018,Pasal 28 ayat (1) jo. Pasal 45,embedding,majority,Pasal 28 ayat (1) jo. Pasal 45; Pasal 55 ayat (1); Pasal 2 ayat (1); Pasal 5 ayat (1); Pasal 378; Pasal 28 ayat (1); Pasal 35; Pasal 1; Pasal 55,"[PASAL TERBUKTI] Pasal 28 ayat (1) jo. Pasal 45; Pasal 55 ayat (1); Pasal 2 ayat (1); Pasal 5 ayat (1); Pasal 378; Pasal 28 ayat (1); Pasal 35; Pasal 1; Pasal 55
+[VONIS PENJARA]  -
+[AMAR/ARGUMEN]   perkara pidana dalam
+acara pemeriksaan biasa menjatuhkan putusan sebagai berikut dalam perkara
+para Te","['case_017', 'case_011', 'case_027', 'case_026', 'case_008']","{'case_017': 0.9527, 'case_011': 0.9313, 'case_027': 0.9311, 'case_026': 0.9304, 'case_008': 0.9276}",False
+query_case_018,case_018,Pasal 28 ayat (1) jo. Pasal 45,embedding,weighted,Pasal 28 ayat (1) jo. Pasal 45; Pasal 55 ayat (1); Pasal 2 ayat (1); Pasal 5 ayat (1); Pasal 378; Pasal 28 ayat (1); Pasal 35; Pasal 1; Pasal 55,"[PASAL TERBUKTI] Pasal 28 ayat (1) jo. Pasal 45; Pasal 55 ayat (1); Pasal 2 ayat (1); Pasal 5 ayat (1); Pasal 378; Pasal 28 ayat (1); Pasal 35; Pasal 1; Pasal 55
+[VONIS PENJARA]  -
+[AMAR/ARGUMEN]   perkara pidana dalam
+acara pemeriksaan biasa menjatuhkan putusan sebagai berikut dalam perkara
+para Te","['case_017', 'case_011', 'case_027', 'case_026', 'case_008']","{'case_017': 0.9527, 'case_011': 0.9313, 'case_027': 0.9311, 'case_026': 0.9304, 'case_008': 0.9276}",False
+query_case_009,case_009,Pasal 2,tfidf,majority,Pasal 45; Pasal 28 ayat (1); Pasal 65 ayat (1); Pasal 65 ayat (1) Jo Pasal 55 ayat (1); Pasal 378; Pasal 55 ayat (1); Pasal 372,"[PASAL TERBUKTI] Pasal 45; Pasal 28 ayat (1); Pasal 65 ayat (1); Pasal 65 ayat (1) Jo Pasal 55 ayat (1); Pasal 378; Pasal 55 ayat (1); Pasal 372
+[VONIS PENJARA]  -
+[AMAR/ARGUMEN]   perkara pidana dengan
+acara pemeriksaan biasa dalam tingkat pertama telah menjatuhkan putusan
+sebagai berikut dalam per","['case_027', 'case_026', 'case_029', 'case_030', 'case_001']","{'case_027': 0.4844, 'case_026': 0.4412, 'case_029': 0.4175, 'case_030': 0.3948, 'case_001': 0.3413}",False
+query_case_009,case_009,Pasal 2,tfidf,weighted,Pasal 45; Pasal 28 ayat (1); Pasal 65 ayat (1); Pasal 65 ayat (1) Jo Pasal 55 ayat (1); Pasal 378; Pasal 55 ayat (1); Pasal 372,"[PASAL TERBUKTI] Pasal 45; Pasal 28 ayat (1); Pasal 65 ayat (1); Pasal 65 ayat (1) Jo Pasal 55 ayat (1); Pasal 378; Pasal 55 ayat (1); Pasal 372
+[VONIS PENJARA]  -
+[AMAR/ARGUMEN]   perkara pidana dengan
+acara pemeriksaan biasa dalam tingkat pertama telah menjatuhkan putusan
+sebagai berikut dalam per","['case_027', 'case_026', 'case_029', 'case_030', 'case_001']","{'case_027': 0.4844, 'case_026': 0.4412, 'case_029': 0.4175, 'case_030': 0.3948, 'case_001': 0.3413}",False
+query_case_009,case_009,Pasal 2,embedding,majority,Pasal 28 ayat (1) jo. Pasal 45; Pasal 55 ayat (1); Pasal 2 ayat (1); Pasal 5 ayat (1); Pasal 378; Pasal 28 ayat (1); Pasal 35; Pasal 1; Pasal 55,"[PASAL TERBUKTI] Pasal 28 ayat (1) jo. Pasal 45; Pasal 55 ayat (1); Pasal 2 ayat (1); Pasal 5 ayat (1); Pasal 378; Pasal 28 ayat (1); Pasal 35; Pasal 1; Pasal 55
+[VONIS PENJARA]  -
+[AMAR/ARGUMEN]   perkara pidana dalam
+acara pemeriksaan biasa menjatuhkan putusan sebagai berikut dalam perkara
+para Te","['case_017', 'case_027', 'case_026', 'case_011', 'case_008']","{'case_017': 0.9168, 'case_027': 0.9022, 'case_026': 0.8998, 'case_011': 0.8981, 'case_008': 0.8945}",False
+query_case_009,case_009,Pasal 2,embedding,weighted,Pasal 28 ayat (1) jo. Pasal 45; Pasal 55 ayat (1); Pasal 2 ayat (1); Pasal 5 ayat (1); Pasal 378; Pasal 28 ayat (1); Pasal 35; Pasal 1; Pasal 55,"[PASAL TERBUKTI] Pasal 28 ayat (1) jo. Pasal 45; Pasal 55 ayat (1); Pasal 2 ayat (1); Pasal 5 ayat (1); Pasal 378; Pasal 28 ayat (1); Pasal 35; Pasal 1; Pasal 55
+[VONIS PENJARA]  -
+[AMAR/ARGUMEN]   perkara pidana dalam
+acara pemeriksaan biasa menjatuhkan putusan sebagai berikut dalam perkara
+para Te","['case_017', 'case_027', 'case_026', 'case_011', 'case_008']","{'case_017': 0.9168, 'case_027': 0.9022, 'case_026': 0.8998, 'case_011': 0.8981, 'case_008': 0.8945}",False
+query_case_010,case_010,Pasal 2 ayat (1),tfidf,majority,Pasal 480; Pasal 5; Pasal 32 jo Pasal 36 jo Pasal 51 ayat (2); Pasal 56; Pasal 35 jo Pasal 51 ayat (1); Pasal 32 ayat (1) Jo. Pasal 48 ayat (1); Pasal 82; Pasal 2 ayat (1); Pasal 3; Pasal 51 ayat (2) jo Pasal 36,"[PASAL TERBUKTI] Pasal 480; Pasal 5; Pasal 32 jo Pasal 36 jo Pasal 51 ayat (2); Pasal 56; Pasal 35 jo Pasal 51 ayat (1); Pasal 32 ayat (1) Jo. Pasal 48 ayat (1); Pasal 82; Pasal 2 ayat (1); Pasal 3; Pasal 51 ayat (2) jo Pasal 36
+[VONIS PENJARA]  -
+[AMAR/ARGUMEN]   perkara-perkara pidana pada peradil","['case_012', 'case_011', 'case_015', 'case_013', 'case_023']","{'case_012': 0.9407, 'case_011': 0.8495, 'case_015': 0.513, 'case_013': 0.3644, 'case_023': 0.3344}",False
+query_case_010,case_010,Pasal 2 ayat (1),tfidf,weighted,Pasal 480; Pasal 5; Pasal 32 jo Pasal 36 jo Pasal 51 ayat (2); Pasal 56; Pasal 35 jo Pasal 51 ayat (1); Pasal 32 ayat (1) Jo. Pasal 48 ayat (1); Pasal 82; Pasal 2 ayat (1); Pasal 3; Pasal 51 ayat (2) jo Pasal 36,"[PASAL TERBUKTI] Pasal 480; Pasal 5; Pasal 32 jo Pasal 36 jo Pasal 51 ayat (2); Pasal 56; Pasal 35 jo Pasal 51 ayat (1); Pasal 32 ayat (1) Jo. Pasal 48 ayat (1); Pasal 82; Pasal 2 ayat (1); Pasal 3; Pasal 51 ayat (2) jo Pasal 36
+[VONIS PENJARA]  -
+[AMAR/ARGUMEN]   perkara-perkara pidana pada peradil","['case_012', 'case_011', 'case_015', 'case_013', 'case_023']","{'case_012': 0.9407, 'case_011': 0.8495, 'case_015': 0.513, 'case_013': 0.3644, 'case_023': 0.3344}",False
+query_case_010,case_010,Pasal 2 ayat (1),embedding,majority,Pasal 480; Pasal 5; Pasal 32 jo Pasal 36 jo Pasal 51 ayat (2); Pasal 56; Pasal 35 jo Pasal 51 ayat (1); Pasal 32 ayat (1) Jo. Pasal 48 ayat (1); Pasal 82; Pasal 2 ayat (1); Pasal 3; Pasal 51 ayat (2) jo Pasal 36,"[PASAL TERBUKTI] Pasal 480; Pasal 5; Pasal 32 jo Pasal 36 jo Pasal 51 ayat (2); Pasal 56; Pasal 35 jo Pasal 51 ayat (1); Pasal 32 ayat (1) Jo. Pasal 48 ayat (1); Pasal 82; Pasal 2 ayat (1); Pasal 3; Pasal 51 ayat (2) jo Pasal 36
+[VONIS PENJARA]  -
+[AMAR/ARGUMEN]   perkara-perkara pidana pada peradil","['case_012', 'case_011', 'case_026', 'case_008', 'case_005']","{'case_012': 0.9879, 'case_011': 0.9874, 'case_026': 0.9117, 'case_008': 0.9098, 'case_005': 0.9097}",False
+query_case_010,case_010,Pasal 2 ayat (1),embedding,weighted,Pasal 480; Pasal 5; Pasal 32 jo Pasal 36 jo Pasal 51 ayat (2); Pasal 56; Pasal 35 jo Pasal 51 ayat (1); Pasal 32 ayat (1) Jo. Pasal 48 ayat (1); Pasal 82; Pasal 2 ayat (1); Pasal 3; Pasal 51 ayat (2) jo Pasal 36,"[PASAL TERBUKTI] Pasal 480; Pasal 5; Pasal 32 jo Pasal 36 jo Pasal 51 ayat (2); Pasal 56; Pasal 35 jo Pasal 51 ayat (1); Pasal 32 ayat (1) Jo. Pasal 48 ayat (1); Pasal 82; Pasal 2 ayat (1); Pasal 3; Pasal 51 ayat (2) jo Pasal 36
+[VONIS PENJARA]  -
+[AMAR/ARGUMEN]   perkara-perkara pidana pada peradil","['case_012', 'case_011', 'case_026', 'case_008', 'case_005']","{'case_012': 0.9879, 'case_011': 0.9874, 'case_026': 0.9117, 'case_008': 0.9098, 'case_005': 0.9097}",False

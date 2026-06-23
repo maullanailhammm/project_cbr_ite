@@ -1,0 +1,93 @@
+2026-06-22 15:01:43,731 | INFO | === Mulai sesi pembersihan Case Base ===
+2026-06-22 15:01:44,212 | INFO | Ekstraksi putusan_1002_pid.sus_2021_pn_jkt.tim_20260620230052.pdf | metode=pymupdf | panjang=215728 karakter | status=OK
+2026-06-22 15:01:44,247 | INFO | Ekstraksi putusan_1037_pid.sus_2021_pn_jkt.tim_20260620225944.pdf | metode=pymupdf | panjang=53412 karakter | status=OK
+2026-06-22 15:01:44,339 | INFO | Ekstraksi putusan_11_pid.sus_2022_pn_jkt.tim_20260620225936.pdf | metode=pymupdf | panjang=157677 karakter | status=OK
+2026-06-22 15:01:44,656 | INFO | Ekstraksi putusan_202_pid.sus_2023_pn_jkt.tim_20260619115103.pdf | metode=pymupdf | panjang=764173 karakter | status=OK
+2026-06-22 15:01:44,997 | INFO | Ekstraksi putusan_203_pid.sus_2023_pn_jkt.tim_20260620225510.pdf | metode=pymupdf | panjang=786835 karakter | status=OK
+2026-06-22 15:01:45,066 | INFO | Ekstraksi putusan_212_pid.sus_2025_pn_jkt.tim_20260620224313.pdf | metode=pymupdf | panjang=123841 karakter | status=OK
+2026-06-22 15:01:45,113 | INFO | Ekstraksi putusan_330_pid.sus_2025_pn_jkt.tim_20260620224225.pdf | metode=pymupdf | panjang=84250 karakter | status=OK
+2026-06-22 15:01:45,231 | INFO | Ekstraksi putusan_351_pid.sus_2025_pn_jkt.tim_20260620223604.pdf | metode=pymupdf | panjang=291630 karakter | status=OK
+2026-06-22 15:01:45,339 | INFO | Ekstraksi putusan_365_pid.sus_2023_pn_jkt.tim_20260620225531.pdf | metode=pymupdf | panjang=244004 karakter | status=OK
+2026-06-22 15:05:06,547 | INFO | Ekstraksi putusan_463_pid.sus_2024_pn_jkt.tim_20260620225349.pdf | metode=ocr | panjang=473602 karakter | status=OK
+2026-06-22 15:05:06,782 | INFO | Ekstraksi putusan_464_pid.sus_2024_pn_jkt.tim_20260620224818.pdf | metode=pymupdf | panjang=522782 karakter | status=OK
+2026-06-22 15:08:25,639 | INFO | Ekstraksi putusan_465_pid.sus_2024_pn_jkt.tim_20260620224836.pdf | metode=ocr | panjang=450137 karakter | status=OK
+2026-06-22 15:08:25,804 | INFO | Ekstraksi putusan_477_pid.sus_2024_pn_jkt.tim_20260620224403.pdf | metode=pymupdf | panjang=378090 karakter | status=OK
+2026-06-22 15:08:25,865 | INFO | Ekstraksi putusan_497_pid.sus_2025_pn_jkt.tim_20260620223628.pdf | metode=pymupdf | panjang=113661 karakter | status=OK
+2026-06-22 15:11:47,099 | INFO | Ekstraksi putusan_524_pid.sus_2024_pn_jkt.tim_20260620225402.pdf | metode=ocr | panjang=465618 karakter | status=OK
+2026-06-22 15:15:13,472 | INFO | Ekstraksi putusan_525_pid.sus_2024_pn_jkt.tim_20260620224652.pdf | metode=ocr | panjang=465878 karakter | status=OK
+2026-06-22 15:15:13,581 | INFO | Ekstraksi putusan_565_pid.sus_2025_pn_jkt.tim_20260620223418.pdf | metode=pymupdf | panjang=217173 karakter | status=OK
+2026-06-22 15:15:13,689 | INFO | Ekstraksi putusan_566_pid.sus_2025_pn_jkt.tim_20260620223550.pdf | metode=pymupdf | panjang=204925 karakter | status=OK
+2026-06-22 15:15:13,728 | INFO | Ekstraksi putusan_582_pid.sus_2022_pn_jkt.tim_20260620225859.pdf | metode=pymupdf | panjang=69862 karakter | status=OK
+2026-06-22 15:15:13,764 | INFO | Ekstraksi putusan_589_pid.sus_2022_pn_jkt.tim_20260620223638.pdf | metode=pymupdf | panjang=72029 karakter | status=OK
+2026-06-22 15:15:13,813 | INFO | Ekstraksi putusan_617_pid.sus_2023_pn_jkt.tim_20260620224133.pdf | metode=pymupdf | panjang=113990 karakter | status=OK
+2026-06-22 15:15:13,847 | INFO | Ekstraksi putusan_638_pid.sus_2024_pn_jkt.tim_20260620224437.pdf | metode=pymupdf | panjang=62951 karakter | status=OK
+2026-06-22 15:15:13,905 | INFO | Ekstraksi putusan_670_pid.sus_2024_pn_jkt.tim_20260620224641.pdf | metode=pymupdf | panjang=112696 karakter | status=OK
+2026-06-22 15:15:13,966 | INFO | Ekstraksi putusan_698_pid.sus_2024_pn_jkt.tim_20260620224527.pdf | metode=pymupdf | panjang=117313 karakter | status=OK
+2026-06-22 15:15:14,024 | INFO | Ekstraksi putusan_710_pid.sus_2021_pn_jkt.tim_20260620111020.pdf | metode=pymupdf | panjang=91583 karakter | status=OK
+2026-06-22 15:15:14,128 | INFO | Ekstraksi putusan_780_pid.sus_2023_pn_jkt.tim_20260620225417.pdf | metode=pymupdf | panjang=249789 karakter | status=OK
+2026-06-22 15:15:14,192 | INFO | Ekstraksi putusan_795_pid.sus_2023_pn_jkt.tim_20260620225410.pdf | metode=pymupdf | panjang=150815 karakter | status=OK
+2026-06-22 15:15:14,237 | INFO | Ekstraksi putusan_798_pid.sus_2022_pn_jkt.tim_20260620224040.pdf | metode=pymupdf | panjang=102301 karakter | status=OK
+2026-06-22 15:15:14,320 | INFO | Ekstraksi putusan_885_pid.sus_2022_pn_jkt.tim_20260620225658.pdf | metode=pymupdf | panjang=162185 karakter | status=OK
+2026-06-22 15:15:14,380 | INFO | Ekstraksi putusan_9_pid.sus_2023_pn_jkt.tim_20260620225600.pdf | metode=pymupdf | panjang=103490 karakter | status=OK
+2026-06-22 15:15:19,745 | INFO | Validasi putusan_1002_pid.sus_2021_pn_jkt.tim_20260620230052.pdf | metode=pymupdf | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,747 | INFO | Validasi putusan_1037_pid.sus_2021_pn_jkt.tim_20260620225944.pdf | metode=pymupdf | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,751 | INFO | Validasi putusan_11_pid.sus_2022_pn_jkt.tim_20260620225936.pdf | metode=pymupdf | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,767 | INFO | Validasi putusan_202_pid.sus_2023_pn_jkt.tim_20260619115103.pdf | metode=pymupdf | residu=1 | struktur=3/3 | kelengkapan=97.5% | status=OK
+2026-06-22 15:15:19,782 | INFO | Validasi putusan_203_pid.sus_2023_pn_jkt.tim_20260620225510.pdf | metode=pymupdf | residu=1 | struktur=3/3 | kelengkapan=97.5% | status=OK
+2026-06-22 15:15:19,786 | INFO | Validasi putusan_212_pid.sus_2025_pn_jkt.tim_20260620224313.pdf | metode=pymupdf | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,788 | INFO | Validasi putusan_330_pid.sus_2025_pn_jkt.tim_20260620224225.pdf | metode=pymupdf | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,794 | INFO | Validasi putusan_351_pid.sus_2025_pn_jkt.tim_20260620223604.pdf | metode=pymupdf | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,800 | INFO | Validasi putusan_365_pid.sus_2023_pn_jkt.tim_20260620225531.pdf | metode=pymupdf | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,812 | INFO | Validasi putusan_463_pid.sus_2024_pn_jkt.tim_20260620225349.pdf | metode=ocr | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,825 | INFO | Validasi putusan_464_pid.sus_2024_pn_jkt.tim_20260620224818.pdf | metode=pymupdf | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,836 | INFO | Validasi putusan_465_pid.sus_2024_pn_jkt.tim_20260620224836.pdf | metode=ocr | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,844 | INFO | Validasi putusan_477_pid.sus_2024_pn_jkt.tim_20260620224403.pdf | metode=pymupdf | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,847 | INFO | Validasi putusan_497_pid.sus_2025_pn_jkt.tim_20260620223628.pdf | metode=pymupdf | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,858 | INFO | Validasi putusan_524_pid.sus_2024_pn_jkt.tim_20260620225402.pdf | metode=ocr | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,868 | INFO | Validasi putusan_525_pid.sus_2024_pn_jkt.tim_20260620224652.pdf | metode=ocr | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,875 | INFO | Validasi putusan_565_pid.sus_2025_pn_jkt.tim_20260620223418.pdf | metode=pymupdf | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,879 | INFO | Validasi putusan_566_pid.sus_2025_pn_jkt.tim_20260620223550.pdf | metode=pymupdf | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,879 | INFO | Validasi putusan_582_pid.sus_2022_pn_jkt.tim_20260620225859.pdf | metode=pymupdf | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,879 | INFO | Validasi putusan_589_pid.sus_2022_pn_jkt.tim_20260620223638.pdf | metode=pymupdf | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,888 | INFO | Validasi putusan_617_pid.sus_2023_pn_jkt.tim_20260620224133.pdf | metode=pymupdf | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,888 | INFO | Validasi putusan_638_pid.sus_2024_pn_jkt.tim_20260620224437.pdf | metode=pymupdf | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,891 | INFO | Validasi putusan_670_pid.sus_2024_pn_jkt.tim_20260620224641.pdf | metode=pymupdf | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,894 | INFO | Validasi putusan_698_pid.sus_2024_pn_jkt.tim_20260620224527.pdf | metode=pymupdf | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,897 | INFO | Validasi putusan_710_pid.sus_2021_pn_jkt.tim_20260620111020.pdf | metode=pymupdf | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,903 | INFO | Validasi putusan_780_pid.sus_2023_pn_jkt.tim_20260620225417.pdf | metode=pymupdf | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,907 | INFO | Validasi putusan_795_pid.sus_2023_pn_jkt.tim_20260620225410.pdf | metode=pymupdf | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,909 | INFO | Validasi putusan_798_pid.sus_2022_pn_jkt.tim_20260620224040.pdf | metode=pymupdf | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,909 | INFO | Validasi putusan_885_pid.sus_2022_pn_jkt.tim_20260620225658.pdf | metode=pymupdf | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,917 | INFO | Validasi putusan_9_pid.sus_2023_pn_jkt.tim_20260620225600.pdf | metode=pymupdf | residu=0 | struktur=3/3 | kelengkapan=100.0% | status=OK
+2026-06-22 15:15:19,952 | INFO | Simpan case_001 <- putusan_1002_pid.sus_2021_pn_jkt.tim_20260620230052.pdf (146723 karakter)
+2026-06-22 15:15:19,953 | INFO | Simpan case_002 <- putusan_1037_pid.sus_2021_pn_jkt.tim_20260620225944.pdf (35683 karakter)
+2026-06-22 15:15:19,953 | INFO | Simpan case_003 <- putusan_11_pid.sus_2022_pn_jkt.tim_20260620225936.pdf (104992 karakter)
+2026-06-22 15:15:19,958 | INFO | Simpan case_004 <- putusan_202_pid.sus_2023_pn_jkt.tim_20260619115103.pdf (497686 karakter)
+2026-06-22 15:15:19,960 | INFO | Simpan case_005 <- putusan_203_pid.sus_2023_pn_jkt.tim_20260620225510.pdf (514618 karakter)
+2026-06-22 15:15:19,961 | INFO | Simpan case_006 <- putusan_212_pid.sus_2025_pn_jkt.tim_20260620224313.pdf (83039 karakter)
+2026-06-22 15:15:19,962 | INFO | Simpan case_007 <- putusan_330_pid.sus_2025_pn_jkt.tim_20260620224225.pdf (56476 karakter)
+2026-06-22 15:15:19,963 | INFO | Simpan case_008 <- putusan_351_pid.sus_2025_pn_jkt.tim_20260620223604.pdf (198620 karakter)
+2026-06-22 15:15:19,964 | INFO | Simpan case_009 <- putusan_365_pid.sus_2023_pn_jkt.tim_20260620225531.pdf (166510 karakter)
+2026-06-22 15:15:19,965 | INFO | Simpan case_010 <- putusan_463_pid.sus_2024_pn_jkt.tim_20260620225349.pdf (351847 karakter)
+2026-06-22 15:15:19,968 | INFO | Simpan case_011 <- putusan_464_pid.sus_2024_pn_jkt.tim_20260620224818.pdf (353939 karakter)
+2026-06-22 15:15:19,969 | INFO | Simpan case_012 <- putusan_465_pid.sus_2024_pn_jkt.tim_20260620224836.pdf (332830 karakter)
+2026-06-22 15:15:19,970 | INFO | Simpan case_013 <- putusan_477_pid.sus_2024_pn_jkt.tim_20260620224403.pdf (255704 karakter)
+2026-06-22 15:15:19,972 | INFO | Simpan case_014 <- putusan_497_pid.sus_2025_pn_jkt.tim_20260620223628.pdf (76103 karakter)
+2026-06-22 15:15:19,973 | INFO | Simpan case_015 <- putusan_524_pid.sus_2024_pn_jkt.tim_20260620225402.pdf (343743 karakter)
+2026-06-22 15:15:19,974 | INFO | Simpan case_016 <- putusan_525_pid.sus_2024_pn_jkt.tim_20260620224652.pdf (343572 karakter)
+2026-06-22 15:15:19,975 | INFO | Simpan case_017 <- putusan_565_pid.sus_2025_pn_jkt.tim_20260620223418.pdf (148250 karakter)
+2026-06-22 15:15:19,976 | INFO | Simpan case_018 <- putusan_566_pid.sus_2025_pn_jkt.tim_20260620223550.pdf (140106 karakter)
+2026-06-22 15:15:19,977 | INFO | Simpan case_019 <- putusan_582_pid.sus_2022_pn_jkt.tim_20260620225859.pdf (46190 karakter)
+2026-06-22 15:15:19,978 | INFO | Simpan case_020 <- putusan_589_pid.sus_2022_pn_jkt.tim_20260620223638.pdf (46204 karakter)
+2026-06-22 15:15:19,979 | INFO | Simpan case_021 <- putusan_617_pid.sus_2023_pn_jkt.tim_20260620224133.pdf (76288 karakter)
+2026-06-22 15:15:19,980 | INFO | Simpan case_022 <- putusan_638_pid.sus_2024_pn_jkt.tim_20260620224437.pdf (41790 karakter)
+2026-06-22 15:15:19,981 | INFO | Simpan case_023 <- putusan_670_pid.sus_2024_pn_jkt.tim_20260620224641.pdf (74481 karakter)
+2026-06-22 15:15:19,982 | INFO | Simpan case_024 <- putusan_698_pid.sus_2024_pn_jkt.tim_20260620224527.pdf (74649 karakter)
+2026-06-22 15:15:19,983 | INFO | Simpan case_025 <- putusan_710_pid.sus_2021_pn_jkt.tim_20260620111020.pdf (61681 karakter)
+2026-06-22 15:15:19,985 | INFO | Simpan case_026 <- putusan_780_pid.sus_2023_pn_jkt.tim_20260620225417.pdf (170989 karakter)
+2026-06-22 15:15:19,986 | INFO | Simpan case_027 <- putusan_795_pid.sus_2023_pn_jkt.tim_20260620225410.pdf (104839 karakter)
+2026-06-22 15:15:19,989 | INFO | Simpan case_028 <- putusan_798_pid.sus_2022_pn_jkt.tim_20260620224040.pdf (70493 karakter)
+2026-06-22 15:15:19,989 | INFO | Simpan case_029 <- putusan_885_pid.sus_2022_pn_jkt.tim_20260620225658.pdf (115528 karakter)
+2026-06-22 15:15:19,989 | INFO | Simpan case_030 <- putusan_9_pid.sus_2023_pn_jkt.tim_20260620225600.pdf (69045 karakter)
+2026-06-22 15:15:20,006 | INFO | === Selesai. Total dokumen diproses: 30 ===
+2026-06-22 15:15:20,007 | INFO | OK: 30 | Perlu cek manual: 0 | Gagal: 0

@@ -1,0 +1,5 @@
+retrieval_method,prediction_strategy,model_label,n_queries,accuracy,precision_macro,recall_macro,f1_macro
+tfidf,majority,TFIDF + majority,6,0.8333,0.125,0.125,0.125
+tfidf,weighted,TFIDF + weighted,6,0.8333,0.125,0.125,0.125
+embedding,majority,EMBEDDING + majority,6,0.6667,0.1875,0.1875,0.1667
+embedding,weighted,EMBEDDING + weighted,6,0.6667,0.1875,0.1875,0.1667
