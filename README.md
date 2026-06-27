@@ -1,9 +1,10 @@
-# Sistem Case-Based Reasoning (CBR) — Analisis Putusan UU ITE
+# Sistem Case-Based Reasoning (CBR) — Analisis Putusan UU ITE - Pidana Khusus ITE - PN Jakarta Timur
 
-> **Mata Kuliah:** Penalaran Komputer — SubCPMK-3  
-> **Program Studi:** Informatika, Fakultas Teknik  
-> **Universitas Muhammadiyah Malang**  
-> **Tahun Akademik:** 2025/2026
+> **Nama:** Maullana Ilham Ar Rosyiid Mariandi
+> 
+> **Nim:** 202310370311093I
+>
+> **Kelas:** Penalaran Komputer B
 
 Sistem CBR sederhana berbasis Python untuk mendukung analisis putusan pengadilan pidana khusus **Undang-Undang Informasi dan Transaksi Elektronik (UU ITE)** dari Pengadilan Negeri Jakarta Timur. Data bersumber dari Direktori Putusan Mahkamah Agung Republik Indonesia.
 
@@ -34,7 +35,7 @@ project_cbr_ite/
 │   │   └── ...
 │   ├── processed/
 │   │   ├── cases.csv               # Representasi terstruktur semua kasus
-│   │   └── cases.json              # Format JSON alternatif
+│   │   └── cases.json              # Format JSON 
 │   ├── eval/
 │   │   ├── queries.json            # Query uji + ground truth
 │   │   ├── retrieval_metrics.csv   # Metrik evaluasi retrieval
@@ -53,11 +54,11 @@ project_cbr_ite/
 │   └── cleaning.log                # Log history pembersihan teks
 │
 ├── notebooks/
-│   ├── 01_case_base.ipynb          # Tahap 1: Scraping & Preprocessing
+│   ├── 01_case_base.ipynb           # Tahap 1: Scraping & Preprocessing
 │   ├── 02_case_representation.ipynb # Tahap 2: Metadata & Feature Engineering
-│   ├── 03_retrieval.ipynb          # Tahap 3: Case Retrieval (TF-IDF + IndoBERT)
-│   ├── 04_predict.ipynb            # Tahap 4: Case Solution Reuse
-│   └── 05_evaluation.ipynb         # Tahap 5: Model Evaluation
+│   ├── 03_retrieval.ipynb           # Tahap 3: Case Retrieval (TF-IDF + IndoBERT)
+│   ├── 04_predict.ipynb             # Tahap 4: Case Solution Reuse
+│   └── 05_evaluation.ipynb          # Tahap 5: Model Evaluation
 │
 ├── requirements.txt
 └── README.md
@@ -78,7 +79,7 @@ project_cbr_ite/
 
 ## Instalasi
 
-# instalasi pytesseract dan poppler untuk OCR fallback OCR fallback (karena putusan saya ada berupa PDF hasil scan):
+# instalasi pytesseract dan poppler untuk OCR fallback OCR fallback (karena putusan saya ada yang berupa PDF hasil scan):
 ```bash
 - pytesseract butuh Tesseract OCR terinstall di sistem:
      Windows : https://github.com/UB-Mannheim/tesseract/wiki
